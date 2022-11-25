@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 💊 Most of my research is within Biomedicine and Healthcare, including Biomedical Image Segmentation, Biomedical Knowledge Graph Construction, and Sentimental Analysis on patients diaries.
 
-🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for use in causal analysis of market schemes and the building of a recommendar system. We have submitted papers to top conferences and some of them are being reviewed.
+🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal analysis of market schemes and the building of a recommendar system. We have submitted papers to top conferences and some of them are being reviewed.
 
-💬 Currently, I am working proactively on my master thesis about Geometric Deep Learning for Protein Design!!! Experiments about Equivariant Representation on ProteinMPNN can be found
+💬 Currently, I am working proactively on my master thesis about Geometric Deep Learning for Protein Design! Experiment updates about Equivariant Representation on ProteinMPNN can be found here.
 
-🌱 As an AI enthusiast and problem-solver, I head a team proposing AI-based solutions for the Sustainable Development Goals. The UNDP judges chosen our mental health care initiative as one of the top 10 finalists out of more than 200 teams.
+🌱 As an AI enthusiast and problem-solver, I head a team proposing AI-based solutions for the Sustainable Development Goals. The UNDP judges panel chosen our mental healthcare initiative as one of the top 10 finalists out of 200+ teams.
 
-🧬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers for biomolecules with researchers from fields of Computing, Medicine and Pharmaceutics. My GNN notebooks are here.
+🧬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers for biomolecules with researchers from fields of Computing, Medicine and Pharmaceutics. My GNNs notebooks are here.
