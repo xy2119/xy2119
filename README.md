@@ -4,7 +4,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 <!--
 **xy2119/xy2119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +27,7 @@ Here are some ideas to get you started:
 
 💊 Most of my research is within Biomedicine and Healthcare, including Biomedical Image Segmentation, Biomedical Knowledge Graph Construction, and Sentimental Analysis on patients diaries.
 
-🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal analysis of market schemes and the building of a recommendar system. We have submitted papers to top conferences and some of them are being reviewed.
+🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. We have submitted papers to top conferences and some of them are being reviewed.
 
 🧬 Currently, I am working proactively on my master thesis about Geometric Deep Learning for Protein Design!!! Experiments about Equivariant Representation on ProteinMPNN can be found here.
 
