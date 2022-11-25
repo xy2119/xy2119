@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal analysis of market schemes and the building of a recommendar system. We have submitted papers to top conferences and some of them are being reviewed.
 
-💬 Currently, I am working proactively on my master thesis about Geometric Deep Learning for Protein Design!!! Experiments about Equivariant Representation on ProteinMPNN can be found here.
+🧬 Currently, I am working proactively on my master thesis about Geometric Deep Learning for Protein Design!!! Experiments about Equivariant Representation on ProteinMPNN can be found here.
 
 🌱 As an AI enthusiast and problem-solver, I head a team proposing AI-based solutions for the Sustainable Development Goals. The UNDP judging panel has chosen our mental healthcare initiative as one of the top 10 finalists out of 200+ teams.
 
-🧬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers for biomolecule tasks with researchers from the fields of Computing, Medicine and Pharmaceutics. My GNNs notebooks are here.
+💬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers for biomolecule tasks with researchers from the fields of Computing, Medicine and Pharmaceutics. My GNNs notebooks are here.
