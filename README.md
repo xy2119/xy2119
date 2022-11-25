@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋🏻, my name is Xinyan Ye.
 
 <!--
 **xy2119/xy2119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  
-
-Hello there 👋🏻, my name is Xinyan Ye.
 
 🎓 I am a MEng student at Imperial College London. 
 
