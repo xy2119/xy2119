@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 💬 Currently, I am working proactively on my master thesis about Geometric Deep Learning for Protein Design! Experiments about Equivariant Representation on ProteinMPNN can be found here.
 
-🌱 As an AI enthusiast and problem-solver, I head a team proposing AI-based solutions for the Sustainable Development Goals. The UNDP judges panel chosen our mental healthcare initiative as one of the top 10 finalists out of 200+ teams.
+🌱 As an AI enthusiast and problem-solver, I head a team proposing AI-based solutions for the Sustainable Development Goals. The UNDP judging panel has chosen our mental healthcare initiative as one of the top 10 finalists out of 200+ teams.
 
 🧬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers for biomolecules with researchers from fields of Computing, Medicine and Pharmaceutics. My GNNs notebooks are here.
