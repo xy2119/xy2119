@@ -1,10 +1,11 @@
 ## Hello there 👋🏻, my name is Xinyan Ye.
 
 The things I code with:
-![image]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white})
-![image]({https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white})
-![image]({https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white})
-![image]({https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white})
+<img src="{https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white}" />
+<img src="{https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white}" />
+
 <!--
 **xy2119/xy2119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
