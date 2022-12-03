@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 
-🎓 I am a Master of Engineering student at Imperial College London. 
+🎓 I am a Master of Engineering student at Imperial College London.(2019-2023)
 
 💻 My research experinces extended to Imperial College Data Science Institute and currently is a member of Algorithmic Human Development Group at Department of Computing.
 
