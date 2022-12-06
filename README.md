@@ -23,16 +23,15 @@ Here are some ideas to get you started:
 
 🎓 I am a Master of Engineering student at Imperial College London.(2019-2023)
 
-💻 My research experinces extended to Imperial College Data Science Institute and currently is a member of Algorithmic Human Development Group at Department of Computing.
+💻 I am a member of the Algorithmic Human Development Group at the Department of Computing, and my research experinces extended to Imperial College Data Science Institute where I have worked on projects related to biomedical data science.
 
-💊 Most of my research is within Biomedicine and Healthcare, including Biomedical Image Segmentation, Biomedical Knowledge Graph Construction, and Sentimental Analysis on patients diaries.
+💊 My research focuses on the application of machine learning to biomedicine and healthcare, including projects on biomedical image segmentation, biomedical knowledge graph construction, and sentimental analysis of patient diaries.
 
-🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. We have submitted papers to top conferences and some of them are being reviewed.
+🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. We submitted papers on graph neural networks in top conferences, some are being reviewed.
 
-🧬 Currently, I am working proactively on my master thesis about Geometric Deep Learning for Protein Design!!! Experiments about SE(3)-Invariant Representation on ProteinMPNN are here.
+🧬 I am currently working on my master's thesis on the application of geometric deep learning to protein design! Check out my experiments on SE(3)-Invariant Representation on ProteinMPNN [link to project]
 
-💬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers for molecular representation learnning with researchers from the fields of Computing, Medicine, Pharmaceutics etc. My GNNs notebooks are here.
+💬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers on molecular representation learnning with researchers from the fields of Computing, Medicine, Pharmaceutics etc. [link to notebooks](https://github.com/xy2119/BioKR2_Graph_Transformer)
 
-🌱 As an AI enthusiast and problem-solver, I head a team proposing AI-based solutions for the Sustainable Development Goals. The UNDP judging panel has chosen our mental healthcare initiative as one of the top 10 finalists out of 200+ teams.
-
+🌱 I lead a team of AI enthusiasts working on proposals for AI-based solutions to the Sustainable Development Goals. Our mental healthcare initiative was selected as a top 10 finalist out of 200+ teams by the UNDP judging panel.
 
