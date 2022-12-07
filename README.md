@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 💊 My research focuses on the application of machine learning to biomedicine and healthcare, including projects on biomedical image segmentation, biomedical knowledge graph construction, and sentimental analysis of patient diaries.
 
-🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. We submitted papers on graph neural networks in top conferences, some are being reviewed.
+🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. 
 
 🧬 I am currently working on my master's thesis on the application of geometric deep learning to protein design! Check out my experiments on SE(3)-Invariant Representation on ProteinMPNN [link to project]
 
