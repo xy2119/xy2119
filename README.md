@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. 
 
-🧬 I am currently working on my master's thesis on the application of geometric deep learning to protein design! Check out my experiments on SE(3)-Invariant Representation on ProteinMPNN [link to project](https://github.com/xy2119/SO3_Equivariant_ProteinMPNN)
+🧬 I am currently working on my master's thesis on the application of geometric deep learning to protein design! Check out my experiments on SO(3)-Invariant Representation on ProteinMPNN [link to project](https://github.com/xy2119/SO3_Equivariant_ProteinMPNN)
 
 💬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers on molecular representation learnning with researchers from the fields of Computing, Medicine, Pharmaceutics etc. [link to notebooks](https://github.com/xy2119/BioKR2_Graph_Transformer)
 
