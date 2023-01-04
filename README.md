@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 💻 I am a member of the [Algorithmic Human Development Group](http://humandevelopment.doc.ic.ac.uk) at the Department of Computing, and my research experinces extended to Imperial College Data Science Institute where I have worked on projects related to biomedical data science.
 
-💊 My research focuses on the application of machine learning to biomedicine and healthcare, including projects on biomedical image segmentation, biomedical knowledge graph construction, and sentimental analysis of patient diaries.
+💊 My research focuses on the application of machine learning to biomedicine and healthcare, including projects on [biomedical image segmentation](https://github.com/xy2119/Brain_MRI_Image_Segmentation), [biomedical knowledge graph construction](https://github.com/xy2119/COVID19_Knowledge_Graph), and [sentimental analysis of patient diaries](https://github.com/xy2119/Data_Mining).
 
 🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. 
 
