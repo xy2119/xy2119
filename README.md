@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 💊 My research focuses on the application of machine learning to biomedicine and healthcare, including projects on [biomedical image segmentation](https://github.com/xy2119/Brain_MRI_Image_Segmentation), [biomedical knowledge graph construction](https://github.com/xy2119/COVID19_Knowledge_Graph), and [sentimental analysis of patient diaries](https://github.com/xy2119/Data_Mining).
 
-🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. 
+🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. [link to implementation](https://github.com/xy2119/Causal_Knowledge_GNN)
 
 🧬 I am currently working on my master thesis on the application of geometric deep learning to protein design! Check out my experiments on SO(3)-Invariant Representation on ProteinMPNN. [link to project](https://github.com/xy2119/SO3_Equivariant_ProteinMPNN)
 
