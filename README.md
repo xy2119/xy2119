@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 💬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers on molecular representation learning with researchers from the fields of Computing, Medicine, Pharmaceutics etc. [link to notebooks](https://github.com/xy2119/BioKR2_Graph_Transformer)
 
-🌱 I lead a team of AI enthusiasts working on proposals for AI-based solutions to the Sustainable Development Goals. Our healthcare initiative was selected as a top 10 finalist out of 200+ teams by the UNDP judging panel. 
+🌱 I led a team of AI enthusiasts working on proposals for AI-based solutions to the Sustainable Development Goals. Our healthcare initiative was selected as a top 10 finalist out of 200+ teams by the UNDP judging panel. 
