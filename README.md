@@ -1,7 +1,7 @@
 ## Hello there 👋🏻, I'm Xinyan.
 
 ### 🎓 About Me
-I am a **3rd-year PhD Student** at **Imperial College London**, Department of Computing. My research is driven by the intersection of Computer Vision and 3D Reconstruction.
+I am a **3rd-year PhD Student** at **Imperial College London**, Department of Computing. My research is driven by the intersection of Computer Vision and 3D Graphics.
 
 * **Supervisors:** [Prof. Abbas Edalat](https://profiles.imperial.ac.uk/a.edalat) & [Prof. Jiankang Deng](https://jiankangdeng.github.io/)
 * **Research Focus:** Computer Vision and 3D Reconstruction. 
