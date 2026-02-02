@@ -1,36 +1,32 @@
-## Hello there 👋🏻, my name is Xinyan.
+## Hello there 👋🏻, I'm Xinyan.
 
-### Packages I code with:
+### 🎓 About Me
+I am a **3rd-year PhD Student** at **Imperial College London**, Department of Computing. My research is driven by the intersection of Computer Vision and 3D Reconstruction.
+
+* **Supervisors:** [Prof. Abbas Edalat](https://profiles.imperial.ac.uk/a.edalat) & [Prof. Jiankang Deng](https://jiankangdeng.github.io/)
+* **Research Focus:** Computer Vision and 3D Reconstruction. 
+* **Specialization:** Specifically focused on **2D & 3D Face Generation** and digital humans.
+
+### 🛠 Tech Stack & Packages
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-<!--
-**xy2119/xy2119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research & Experience
 
+* **3D Face Reconstruction:** Exploring state-of-the-art methods for generating high-fidelity 3D facial assets from 2D images.
+* **Generative AI:** Working on generative models for realistic face synthesis and reenactment.
+* **Previous Background:** Transitioned from Biomedical Data Science (GNNs, Knowledge Graphs) and Protein Design (Geometric Deep Learning) during my MEng at Imperial.
 
-🎓 I am a Master of Engineering student at Imperial College London (2019-2023) | [Website](https://xy2119.github.io)
+### 🔗 Links
+[📧 Contact Me](mailto:xy119@ic.ac.uk) 
 
-💻 I am a member of the [Algorithmic Human Development Group](http://humandevelopment.doc.ic.ac.uk) at the Department of Computing, and my research experinces extended to Imperial College Data Science Institute where I have worked on projects related to biomedical data science.
+---
 
-💊 My research focuses on the application of machine learning to biomedicine and healthcare, including projects on [biomedical image segmentation](https://github.com/xy2119/Brain_MRI_Image_Segmentation), [biomedical knowledge graph construction](https://github.com/xy2119/COVID19_Knowledge_Graph), and [sentimental analysis of patient diaries](https://github.com/xy2119/Data_Mining).
-
-🦾 I worked with Machine Learning Engineers at Alipay to implement Graph Neural Networks for uses in causal inference analysis of market schemes and the building of a recommendar system. [link to implementation](https://github.com/xy2119/Causal_Knowledge_GNN)
-
-🧬 I am currently working on my master thesis on the application of geometric deep learning to protein design! Check out my experiments on SO(3)-Invariant Representation on ProteinMPNN. [link to project](https://github.com/xy2119/SO3_Equivariant_ProteinMPNN)
-
-💬 Also, I am hosting a weekly paper reading group, sharing Graph Transformers on molecular representation learning with researchers from the fields of Computing, Medicine, Pharmaceutics etc. [link to notebooks](https://github.com/xy2119/BioKR2_Graph_Transformer)
-
-🌱 I led a team of AI enthusiasts working on proposals for AI-based solutions to the Sustainable Development Goals. Our mental healthcare initiative was selected as a top 10 finalist out of 200+ teams by the UNDP judging panel. 
+### 🚀 Selected Past Projects
+* **[SO(3)-Invariant ProteinMPNN](https://github.com/xy2119/SO3_Equivariant_ProteinMPNN):** Master thesis on geometric deep learning for protein design.
+* **[Causal Knowledge GNN](https://github.com/xy2119/Causal_Knowledge_GNN):** Implemented GNNs for causal inference.
+* **[Sustainable Development Goals AI Initiative](https://github.com/xy2119/):** Mental healthcare initiative selected as Top 10 by UNDP.
