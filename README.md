@@ -25,8 +25,3 @@ I am a **4th-year PhD Student** at **Imperial College London**, Department of Co
 [Personal Website](https://xy2119.github.io) · [Email](mailto:xy2119@ic.ac.uk)
 
 ---
-
-### 🚀 Selected Past Projects
-* **[SO(3)-Invariant ProteinMPNN](https://github.com/xy2119/SO3_Equivariant_ProteinMPNN):** Master thesis on geometric deep learning for protein design.
-* **[Causal Knowledge GNN](https://github.com/xy2119/Causal_Knowledge_GNN):** Implemented GNNs for causal inference.
-* **[Sustainable Development Goals AI Initiative](https://github.com/xy2119/):** Mental healthcare initiative selected as Top 10 by UNDP.
